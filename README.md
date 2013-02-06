@@ -12,7 +12,7 @@ Java 1.6 later
 
 Download the jar file from:
 
-https://raw.github.com/chiyano/websocket-popen-client/bin/websocket-popen-client-0.0.1-SNAPSHOT-jar-with-dependencies.jar
+https://github.com/chiyano/websocket-popen-client/raw/master/bin/websocket-popen-client-0.0.1-SNAPSHOT-jar-with-dependencies.jar
 
 In now, websocket-popen-server is running in localhost:9999, 
 do the following.

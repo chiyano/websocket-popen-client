@@ -17,7 +17,7 @@ https://github.com/chiyano/websocket-popen-client/raw/master/bin/websocket-popen
 In now, websocket-popen-server is running in localhost:9999, 
 do the following.
 
-    % cat <<EOF | java -jar bin/websocket-popen-client-0.0.1-SNAPSHOT-jar-with-dependencies.jar ws://localhost:9999/ws/wc+-l
+    % cat <<EOF | java -jar websocket-popen-client-0.0.1-SNAPSHOT-jar-with-dependencies.jar ws://localhost:9999/ws/wc+-l
     foo
     bar
     baz
